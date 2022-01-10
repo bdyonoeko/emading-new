@@ -5,7 +5,7 @@
 
 <h2>Catatan</h2>
 <p>Untuk menjalankan e-mading ini ada beberapa catatan yang harus dijalankan, di antaranya: </p> 
-<p>1. Install terlebih dahulu folder vendor dengan menjalankan perintah <b>composer install</b></p>
+<p>1. Install terlebih dahulu folder vendor dengan menjalankan perintah <b>composer update</b> atau <b>composer install</b></p>
 <p>2. Copy file env dan rename menjadi .env, lalu modifikasi bagian environment dan database</p>
 <p>3. Buat database, lalu import file database emading.sql ke dalam database yang dibuat</p>
 <p>4. Terakhir, jalankan program dengan <b>php spark serve</b></p>
