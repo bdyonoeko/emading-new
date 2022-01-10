@@ -1,0 +1,191 @@
+/* yg umum */
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f9f4f4;
+  color: #21175e;
+}
+.card {
+  height: 490px;
+}
+.notifku {
+  height: 200px;
+}
+section {
+  padding-top: 5rem;
+}
+.bg-kuning {
+  background-color: #e9e967;
+}
+.bg-putih {
+  background-color: #f9f4f4;
+}
+.bg-hijau {
+  background-color: #40ff40;
+}
+.bg-biru {
+  background-color: #d3ffff;
+}
+
+/* navbar */
+.logo {
+  height: 60px;
+}
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #21175e;
+  font-weight: bold;
+}
+.navbar-light .navbar-nav,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #21175e;
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #51459c;
+}
+
+/* sub navbar */
+
+/* hero */
+.slogan {
+  padding-top: 8rem;
+  font-family: "Merriweather", serif;
+  color: #51459c;
+  font-size: 22px;
+}
+.slogan-quotes {
+  color: #483e89;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* image */
+.my-image {
+  height: 250px;
+  width: 100%;
+}
+.my-mini-image {
+  height: 70px;
+  width: 70px;
+}
+.my-image-karya-detail {
+  height: 310px;
+  width: 100%;
+}
+.my-image-preview {
+  height: 100px;
+  width: 100px;
+}
+.my-image-kartu-pelajar {
+  width: 100%;
+  height: 200px;
+}
+.my-image-logo {
+  height: 250px;
+  width: 250px;
+}
+.my-image-author {
+  height: 120px;
+  width: 120px;
+}
+.my-image-cari {
+  height: 200px;
+}
+
+/* font */
+h3 {
+  font-size: 22px;
+}
+h4 {
+  font-size: 20px;
+}
+.fontku-1 {
+  font-size: 16px;
+}
+.fontku-2 {
+  font-size: 8px;
+}
+.fontku-3 {
+  font-size: 12px;
+}
+.fontku-4 {
+  font-size: 14px;
+}
+.fontku-13 {
+  font-size: 13px;
+}
+.card-title {
+  font-size: 17px;
+  font-weight: bold;
+}
+.card-text {
+  font-size: 14px;
+}
+.text-hitam {
+  color: #606064 !important;
+}
+.text-biru {
+  color: #51459c !important;
+}
+.text-biru-2 {
+  color: #21175e !important;
+}
+
+/* footer */
+.footer-user {
+  margin-bottom: 3rem;
+  padding-top: 3rem;
+}
+.footer-admin {
+  margin-bottom: 0px;
+}
+.my-logo {
+  height: 120px;
+  width: 120px;
+}
+.list-group-item {
+  background-color: #f9f4f4;
+  border: 0;
+  padding: 4px;
+}
+.list-group-item a {
+  text-decoration: none;
+  color: #21175e;
+  font-size: 12px;
+}
+.font-footer {
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+.font-sekolah {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* karya tulis */
+#my-background {
+  padding-top: 8rem;
+  background-image: linear-gradient(#f9f4f4, #e9e967);
+}
+.my-background-kuning {
+  background-image: linear-gradient(#f9f4f4, #e9e967);
+}
+.karya {
+  padding: 1rem;
+}
+.my-image-karya {
+  height: 250px;
+  width: 100%;
+}
+p {
+  overflow-wrap: break-word;
+}
+div {
+  overflow-wrap: break-word;
+}
+a {
+  overflow-wrap: break-word;
+}
+.padding-tambah {
+  padding-top: 4rem;
+}
